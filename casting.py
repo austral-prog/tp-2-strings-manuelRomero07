@@ -13,4 +13,3 @@ def casting():
     print("total")
     total=precio_con_descuento*3
     print(total)
-casting()
